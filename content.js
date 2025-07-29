@@ -11,46 +11,55 @@
     fontFamily: 'sans-serif',
     fontSize: '14px',
     userSelect: 'none',
-    cursor: 'move'
+    cursor: 'move',
+    bottom: '20px', // Always near the bottom
+    left: '50%',    // Start centered
+    transform: 'translateX(-50%)', // Center alignment
+    transition: 'left 0.5s ease' // Smooth horizontal motion
   });
   f.textContent = 'Loading...';
   document.body.appendChild(f);
 
-  async function a() {
-    const e = innerWidth - f.offsetWidth,
-          t = innerHeight - f.offsetHeight,
-          x = Math.random() * e,
-          y = Math.random() * t;
-    f.style.left = `${x}px`;
-    f.style.top = `${y}px`;
+  let words = [];
 
+  async function loadWords() {
     try {
-      const r = await fetch('https://learn-english-vip.onrender.com/words');
-      const j = await r.json();
-      f.textContent = j.word || '[no word]';
-    } catch (err) {
-      f.textContent = '[error]';
+      const res = await fetch(chrome.runtime.getURL('words.txt'));
+      const text = await res.text();
+      words = text.split(/\r?\n/).filter(w => w.trim());
+    } catch (e) {
+      f.textContent = '[load error]';
     }
   }
 
-  setInterval(a, 4000);
-  a();
+  function showRandomWord() {
+    if (words.length === 0) return;
+    const word = words[Math.floor(Math.random() * words.length)];
+    f.textContent = word;
+    const x = Math.random() * (window.innerWidth - f.offsetWidth);
+    f.style.left = `${x}px`;
+  }
 
-  let d = false, o = 0, n = 0;
+  setInterval(showRandomWord, 4000);
+
+  loadWords().then(showRandomWord);
+
+  // Drag functionality
+  let dragging = false, offsetX = 0;
+
   f.addEventListener('mousedown', e => {
-    d = true;
-    o = e.offsetX;
-    n = e.offsetY;
+    dragging = true;
+    offsetX = e.offsetX;
   });
 
   document.addEventListener('mousemove', e => {
-    if (d) {
-      f.style.left = `${e.pageX - o}px`;
-      f.style.top = `${e.pageY - n}px`;
+    if (dragging) {
+      f.style.left = `${e.pageX - offsetX}px`;
+      f.style.transform = 'none'; // Cancel centering transform during drag
     }
   });
 
   document.addEventListener('mouseup', () => {
-    d = false;
+    dragging = false;
   });
 })();

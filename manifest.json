@@ -1,19 +1,19 @@
 {
-    "manifest_version": 3,
-    "name": "Word Bubble",
-    "version": "1.0",
-    "description": "Shows a floating random word from an API.",
-    "permissions": [
-        "scripting"
-    ],
-    "content_scripts": [
-        {
-            "matches": [
-                "<all_urls>"
-            ],
-            "js": [
-                "content.js"
-            ]
-        }
-    ]
+  "manifest_version": 3,
+  "name": "Word Bubble",
+  "version": "1.0",
+  "description": "Shows a floating word from local text file.",
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["words.txt"],
+      "matches": ["<all_urls>"]
+    }
+  ]
 }
