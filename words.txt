@@ -2744,3 +2744,29 @@ wrist : /ɹɪst/ : cổ tay
 yell : /jɛl/ : hét lên
 yield : /jiːld/ : năng suất
 youngster : /ˈjʌŋstɚ/ : thanh niên
+add : /æd/ : cộng
+minus : /ˈmaɪ.nəs/ : trừ
+multiply : /ˈmʌl.tə.plaɪ/ : nhân
+divide : /dɪˈvaɪd/ : chia
+equal : /ˈiː.kwəl/ : bằng
+greater than : /ˈɡreɪ.t̬ɚ ðæn/ : lớn hơn
+less than : /les ðæn/ : nhỏ hơn
+parenthesis : /pəˈren.θə.sɪs/ : dấu ngoặc đơn
+colon : /ˈkoʊ.lən/ : dấu hai chấm :
+semicolon : /ˈsem.iˌkoʊ.lən/ : dấu chấm phẩy ;
+comma : /ˈkɑː.mə/ : dấu phẩy ,
+period (US) / full stop (UK) : /ˈpɪr.i.əd/ : dấu chấm .
+question mark : /ˈkwes.tʃən ˌmɑːrk/ : dấu hỏi ?
+exclamation mark : /ˌek.skləˈmeɪ.ʃən ˌmɑːrk/ : dấu chấm than !
+hyphen : /ˈhaɪ.fən/ : dấu gạch nối -
+underscore : /ˈʌn.dɚ.skɔːr/ : dấu gạch dưới _
+slash : /slæʃ/ : dấu gạch chéo /
+backslash : /ˈbæk.slæʃ/ : dấu gạch ngược \
+quotation mark : /ˈkwoʊ.teɪ.ʃən ˌmɑːrk/ : dấu ngoặc kép "
+apostrophe : /əˈpɑː.strə.fi/ : dấu nháy đơn '
+at sign : /æt saɪn/ : ký hiệu @
+hash / pound sign : /hæʃ/ : ký hiệu #
+ampersand : /ˈæm.pɚ.sænd/ : dấu &
+asterisk : /ˈæs.tɚ.rɪsk/ : dấu *
+equals sign : /ˈiː.kwəlz saɪn/ : dấu bằng =
+hallucination : /həˌluː.səˈneɪ.ʃən/ : ảo giác
