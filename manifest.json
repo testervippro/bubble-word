@@ -1,19 +1,36 @@
 {
   "manifest_version": 3,
-  "name": "Word Bubble",
-  "version": "1.0",
-  "description": "Shows a floating word from local text file.",
-  "permissions": ["scripting"],
+  "name": "Floating Word",
+  "description": "Show random word floating on screen",
+  "version": "1.2",
+  "permissions": [
+    "scripting",
+    "activeTab",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Floating Word"
+  },
   "content_scripts": [
     {
-      "matches": ["<all_urls>"],
-      "js": ["content.js"]
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
     }
   ],
   "web_accessible_resources": [
     {
-      "resources": ["words.txt"],
-      "matches": ["<all_urls>"]
+      "resources": [
+        "words.txt"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
     }
   ]
 }

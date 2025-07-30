@@ -924,7 +924,7 @@ battlefield :  : chiến trường
 bay : /beɪ/ : vịnh
 beam : /biːm/ : chùm tia
 beast : /biːst/ : con thú
-behalf : Error: Request failed for https://api.dictionaryapi.dev returned code 404. Truncated server response: {"title":"No Definitions Found","message":"Sorry pal, we couldn't find definitions for the word you were looking for.","resolution":"You can try th... (use muteHttpExceptions option to examine full response) : thay mặt
+behalf : : thay mặt
 beloved :  : được yêu mến
 bench : /bɛntʃ/ : băng ghế
 benchmark :  : chuẩn mực
@@ -1202,7 +1202,7 @@ crude : /kɹuːd/ : thô
 cruise : /kɹuːz/ : du thuyền
 crush : /kɹʌʃ/ : người mình thích
 crystal : /ˈkɹɪstəl/ : pha lê
-cue : Error: Request failed for https://api.dictionaryapi.dev returned code 404. Truncated server response: {"title":"No Definitions Found","message":"Sorry pal, we couldn't find definitions for the word you were looking for.","resolution":"You can try th... (use muteHttpExceptions option to examine full response) : tín hiệu
+cue : : tín hiệu
 cult : /kʌlt/ : giáo phái
 cultivate : /ˈkʌltɪveɪt/ : trồng trọt
 curiosity : /ˌkjʊəɹɪˈɒsɪti/ : sự tò mò
@@ -1339,7 +1339,7 @@ dominance : /ˈdɑːmɪnəns/ : sự thống trị
 dominant : /ˈdɑmənənt/ : trội
 donation : /doʊˈneɪʃən/ : quyên góp
 donor : /ˈdoʊnɚ/ : người hiến tặng
-dose : Error: Request failed for https://api.dictionaryapi.dev returned code 404. Truncated server response: {"title":"No Definitions Found","message":"Sorry pal, we couldn't find definitions for the word you were looking for.","resolution":"You can try th... (use muteHttpExceptions option to examine full response) : liều lượng
+dose : liều lượng
 dot : /dɒt/ : chấm
 downtown :  : trung tâm thành phố
 drain : /dɹeɪn/ : làm khô hạn
@@ -1957,7 +1957,7 @@ negotiate : /nəˈɡəʊ.ʃi.eɪt/ : thương lượng
 negotiation : /nɪˌɡoʊʃiˈeɪʃən/ : đàm phán
 neighbouring :  : lân cận
 nest : /nɛst/ : tổ
-net : Error: Request failed for https://api.dictionaryapi.dev returned code 404. Truncated server response: {"title":"No Definitions Found","message":"Sorry pal, we couldn't find definitions for the word you were looking for.","resolution":"You can try th... (use muteHttpExceptions option to examine full response) : mạng lưới
+net :: mạng lưới
 neutral : /ˈnuːtɹəl/ : trung lập
 newly : /ˈnuli/ : mới
 newsletter : /ˈn(j)uzˌlɛtɚ/ : bản tin
@@ -2201,8 +2201,8 @@ raid : /ɹeɪd/ : cuộc đột kích
 rail : /ɹeɪl/ : đường sắt
 rally : /ˈɹæ.li/ : tập hợp
 random : /ˈɹændəm/ : ngẫu nhiên
-ranking : /ˈɹænk.ɪŋ/ : xếp hạng
-rape : Error: Request failed for https://api.dictionaryapi.dev returned code 404. Truncated server response: {"title":"No Definitions Found","message":"Sorry pal, we couldn't find definitions for the word you were looking for.","resolution":"You can try th... (use muteHttpExceptions option to examine full response) : hiếp dâm
+ranking : /ˈɹænk.ɪŋ/ : xếp hạngErr
+rape : hiếp dâm
 rat : /ɹæt/ : con chuột
 rating : /ˈɹeɪtɪŋ/ : xếp hạng
 ratio : /ˈɹeɪ.ʃiˌoʊ/ : tỷ lệ
@@ -2496,7 +2496,7 @@ sue : /suː/ : kiện tụng
 suffering : /ˈsʌfəɹɪŋ/ : đau khổ
 sufficient : /səˈfɪʃənt/ : hợp lý
 sufficiently : /səˈfɪʃəntli/ : đủ
-suicide : Error: Request failed for https://api.dictionaryapi.dev returned code 404. Truncated server response: {"title":"No Definitions Found","message":"Sorry pal, we couldn't find definitions for the word you were looking for.","resolution":"You can try th... (use muteHttpExceptions option to examine full response) : tự tử
+suicide: tự tử
 suite : /swiːt/ : bộ
 summit : /ˈsʌmɪt/ : đỉnh cao
 super :  : siêu

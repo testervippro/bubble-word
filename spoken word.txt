@@ -1,0 +1,846 @@
+
+ action n.
+ also adv.
+ analysis n.
+ approach n.
+ argue v.
+ argument n.
+ assumption n.
+ basically adv.
+ become linking v.
+ between prep.
+ case n.
+ context n.
+ control n., v.
+ country n.
+ culture n.
+ data n.
+ define v.
+ definition n.
+ demand n.
+ design n., v.
+ develop v.
+ diagram n.
+ difference n.
+ different adj.
+ direction n.
+ economic adj.
+ effect n.
+ equal adj., n., v.
+ error n.
+ essentially adv.
+ example n.
+ experiment n.
+ factor n.
+ failure n.
+ focus n., v.
+ form n., v.
+ function n., v.
+ general adj.
+ group n., v.
+ handout n.
+ history n.
+ human adj., n.
+ hypothesis n.
+ idea n.
+ important adj.
+ individual n., adj.
+ international adj.
+ kind n.
+ knowledge n.
+ language n.
+ learning n.
+ lecture n.
+ level n.
+ material n.
+ measure n., v.
+ method n.
+ model n.
+ movement n.
+ natural adj.
+ nature n.
+ observe v.
+ occur v.
+ OK exclam, adj., adv.
+ particular adj.
+ particularly adv.
+ per prep.
+ period n.
+ phase n.
+ population n.
+ principle n.
+ probability n.
+ process n.
+ produce v., n.
+ product n.
+ production n.
+ rate n.
+ relationship n.
+ research n., v.
+ response n.
+ sense n.
+ set v., n.
+ simple adj.
+ simply adv.
+ social adj.
+ society n.
+ solution n.
+ source n.
+ state n., v.
+ structure n., v.
+ student n.
+ study n., v.
+ system n.
+ text n.
+ theory n.
+ topic n.
+ type n.
+ value n.
+ variable n., adj.
+ word n.
+ world n.
+ academic adj., n.
+ actually adv.
+ analyse v.
+ assume v.
+ based adj.
+ basic adj.
+ begin v.
+ behaviour n.
+ body n.
+ cause n., v.
+ certain adj.
+ change n., v.
+ class n.
+ column n.
+ common adj.
+ compare v.
+ complex adj.
+ concept n.
+ concern v.
+ condition n.
+ course n.
+ create v.
+ degree n.
+ describe v.
+ detail n.
+ development n.
+ final adj.
+ element n.
+ environment n.
+ evidence n.
+ exchange n.
+ explain v.
+ explanation n.
+ fact n
+flow n., v.
+ force n., v.
+ generate v.
+ identity n.
+ image n.
+ influence n., v.
+ information n.
+ interesting adj.
+ issue n.
+ law n.
+ learn v.
+ less det/pron, adv.
+ may modal v.
+ means n.
+ modern adj.
+ notion n.
+ object n.
+ often adv.
+ output n.
+ possible adj.
+ power n.
+ practice n.
+ pressure n.
+ primary adj.
+ problem n.
+ question n., v.
+ random adj.
+ range n.
+ rather adv.
+ reading n.
+ real adj.
+ reason n.
+ recognize v.
+ related adj.
+ relation n.
+ relatively adv.
+ represent v.
+ result n., v.
+ role n.
+ science n.
+ seminar n.
+ series n.
+ shape n., v.
+ slide n.
+ so conj.
+ sort n., v.
+ specific adj.
+ stage n.
+ strategy n.
+ talk v., n.
+ technology n.
+ tend v.
+ term n.
+ terms n.
+ test n., v.
+ therefore adv.
+ thought n.
+ treatment n.
+ understand v.
+ use v., n.
+ useful adj.
+ various adj.
+ volume n.
+ whole adj., n.
+ within prep.
+ write v.
+ according to prep.
+ account n., v.
+ aim n., v.
+ almost adv.
+ amount n., v.
+ aspect n.
+ associated adj.
+ attempt n., v.
+ attitude n.
+ barrier n.
+ beginning n.
+ call v.
+ characteristic n., adj.
+ classic adj., n.
+ classical adj.
+ clearly adv.
+combination n.
+ completely adv.
+ component n.
+ conflict n., v.
+ consequence n.
+ cultural adj.
+ derive v.
+ directly adv.
+ distinction n.
+ divide v.
+ enter v.
+ entry n.
+ establish v.
+ exist v.
+ famous adj.
+ foreign adj.
+ framework n.
+ free adj.
+ gain n., v.
+ gender n.
+ given adj.
+ growth n.
+ happen v.
+ here adv.
+ highly adv.
+ huge adj.
+ impact n.
+ instance n.
+ interest n.
+ interested adj.
+ judgement n.
+ key adj., n.
+ large adj.
+ later adj., adv.
+ line n.
+ list n, v.
+ literature n.
+ loss n.
+ mechanism n.
+ module n.
+ move v.
+ national adj.
+ negative adj., n.
+ normal adj.
+ number n.
+ obvious adj.
+ obviously adv.
+ part n.
+ perspective n.
+ point n., v.
+ position n.
+ positive adj., n.
+ publish v.
+ purpose n.
+ ratio n.
+ reaction n.
+ read v.
+ reflect v.
+ reject v.
+ resource n.
+ risk n.
+ same adj., pron.
+ scale n.
+ sequence n.
+ show v.
+ significant adj.
+ slightly adv.
+ small adj.
+ so-called adj.
+ standard adj., n.
+ suppose v.
+ survival n.
+ target n., v.
+ teach v.
+ technique n.
+ textbook n.
+ together adv.
+ true adj.
+ university n.
+ variation n.
+ variety n.
+ very adv.
+ way n.
+ whereas conj.
+ ability n.
+ again adv.
+ although conj.
+ apply v.
+ area n.
+ because conj.
+ briefly adv.
+ care n.
+ central adj.
+ choice n.
+ choose v.
+ communication n.
+ conclusion n.
+ construct v.
+ contain v.
+ contrast n., v.
+ critical adj.
+ crucial adj.
+ decision n.
+ depend v.
+ determine v.
+ difficult adj.
+ direct adj., v.
+ distinguish v.
+ draw v.
+ duty n.
+ early adj.
+ effective adj.
+ effectively adv.
+ event n.
+ existence n.
+ experience n., v.
+ expert n., adj.
+ expression n.
+ extreme adj., n.
+ extremely adv.
+ fairly adv.
+ finally adv.
+ following adj., prep.
+ formal adj.
+ generally adv.
+ global adj.
+ guess v., n.
+ hence adv.
+ high adj.
+ however adv.
+ importance n.
+ increase n., v.
+ input n.
+ introduce v.
+ introduction n.
+ low adj.
+ lower adj.
+ main adj.
+ major adj.
+ mention v.
+ might modal v.
+ necessarily adv.
+ new adj.
+ note n., v.
+ objective n., adj.
+ operation n.
+ order n., v.
+ per cent n., adj.
+ phenomenon n.
+ physical adj.
+ picture n.
+ possibility n.
+ powerful adj.
+ practical adj., n.
+ predict v.
+ previous adj.
+ procedure n.
+ professional adj., n.
+ quantity n.
+ quickly adv.
+ rational adj.
+ reduce v.
+ rule n.
+ scientific adj.
+ session n.
+ similar adj.
+ skill n.
+ sometimes adv.
+ story n.
+ straightforward adj.
+ stress v., n.
+ subject n., adj.
+ such det/pron
+ suggest v.
+ supply n., v.
+ task n.
+ technical adj.
+ thing n.
+ title n.
+ underlying adj.
+ understanding n.
+ unit n.
+ version n.
+ view n., v.
+ absolute adj.
+ access n.
+ active adj.
+ activity n.
+ advantage n.
+ appear v.
+ average n., adj.
+ background n.
+ basis n.
+ can modal v.
+ capacity n.
+ category n.
+ chain n.
+ claim n., v.
+ community n.
+ contemporary adj., n.
+ correspond v.
+ cycle n.
+ developed adj.
+ dimension n.
+ discuss v.
+ discussion n.
+ distinct adj.
+ emerge v.
+ emphasis n.
+ emphasize v.
+ environmental adj.
+ equivalent adj., n.
+ experimental adj.
+ extent n.
+ external adj.
+ familiar adj.
+ feature n.
+ female adj., n.
+ generation n.
+ illustrate v.
+ interact v.
+ interaction n.
+ intermediate adj.
+ internal adj.
+ interpretation n.
+ invent v.
+ involve v.
+ journal n.
+ largely adv.
+ lead v.
+ lecturer n.
+ likely adj.
+ limit n., v.
+ look v.
+ male adj., n.
+ maximum adj., n.
+ memory n.
+ middle n.
+ need v.
+ observation n.
+ operate v.
+ origin n.
+ outcome n.
+ parallel n.
+ pattern n.
+ perceive v.
+ perfectly adv.
+ potential adj., n.
+ potentially adv.
+ presence n.
+ prevent v.
+ proportion n.
+ quality n.
+ rapidly adv.
+ react v.
+ reality n.
+ refer v.
+ reference n.
+ reflection n.
+ rely v.
+ representation n.
+ require v.
+ respond v.
+ sheet n.
+ shift n., v.
+ significance n.
+ single adj.
+ somehow adv.
+ spread n., v.
+ structural adj.
+ sum n., v.
+ summary n.
+ tendency n.
+ theme n.
+theoretical adj.
+ throughout prep., adv.
+ total adj., n.
+ transfer n., v.
+ try v.
+ tutor n.
+ typical adj.
+ typically adv.
+ used adj.
+ welfare n.
+ acquire v.
+ adapt v.
+ add v.
+ adult n., adj.
+ affect v.
+ already adv.
+ answer n., v.
+ arise v.
+ article n.
+ attack v., n.
+ attention n.
+ author n.
+ avoid v.
+ balance n.
+ behave v.
+ benefit n.
+ beyond prep., adv.
+ broad adj.
+ centre n.
+ circumstance n.
+ clear adj.
+ closely adv.
+ code n.
+ combine v.
+ concentrate v.
+ conclude v.
+ consider v.
+ content n.
+ deal v.
+ decline n., v.
+ department n.
+ description n.
+ destroy v.
+ differ v.
+ discover v.
+ easily adv.
+ end n., v.
+ entirely adv.
+ essential adj.
+ exactly adv.
+ exam n.
+ explore v.
+ fail v.
+ f
+ ind v.
+ fundamental adj.
+ grow v.
+ hopefully adv.
+ identify v.
+ imply v.
+ increasingly adv.
+ indeed adv.
+ initial adj.
+ interpret v.
+ involved adj.
+ label v., n.
+ limited adj.
+ link v., n.
+ maintain v.
+ majority n.
+ many det./pron.
+ mental adj.
+ moment n.
+ motivation n.
+ nevertheless adv.
+ option n.
+ organization n.
+ partly adv.
+ perform v.
+ perhaps adv.
+ popular adj.
+ precisely adv.
+ prefer v.
+ progress n.
+ pure adj.
+ quote v., n.
+ reach v.
+ recognition n.
+ relevant adj.
+ roughly adv.
+ sample n.
+ secondly adv.
+ section n.
+ sexual adj.
+ sign n., v.
+ situation n.
+ space n.
+ split v.
+ stable adj.
+ strength n.
+ style n.
+ symbol n.
+ teacher n.
+ trace n.
+ traditional adj.
+ treat v.
+ trend n.
+ trust n., v.
+ upper adj.
+ vary v.
+ whatever det./pron
+  I was going to / we are going to
+ I would like to
+ I want to talk about / look at 
+/ say
+ what I want to do
+ I (just) want to
+ just going to
+ going to talk about
+ going to be talking about
+ going to look at
+ in terms of
+ with respect to
+ in relation to
+ (in) the context of
+ in the case of
+ in this/that case
+ the question is
+ the point is that
+ the problem of
+ the problem with
+ (so) in other words
+ as I say
+ as I said
+ that is to say
+ what I mean by
+
+ as well as
+ and so on (and so forth)
+ or something like that
+ something to do with
+ a kind of
+ a sort of
+ some kind of
+ the same sort of
+ the sorts of
+ you can look at
+ be looking at
+ to deal with
+ interested in
+ if you/we look at
+ going to show you
+ going to go through
+ going to go into
+ going to say
+ I was talking about
+ we were talking about
+ been talking about
+ we talked about
+ we looked at
+ we talk about
+ from the point of view of
+ when it comes to
+ in the form of
+ on the basis of
+ to do with
+ the possibility of
+ the state of
+ the issue of
+ the question of
+ the nature of
+ in a sense
+ if you like
+ as it were
+ you might say
+ in some way
+ such as
+ an example of
+ to show you
+ and all the rest of it
+ et cetera (et cetera)
+ some sort of
+ this/that sort of (thing)
+ this/that kind of (thing)
+ the sort of thing
+ all sorts of
+ the kinds of
+ these sorts of
+ if you think about (it)
+ when we/you look at
+ (and) you can see that
+ we can see
+ as you can see
+ as to
+ nothing to do with
+ the idea is that
+ the idea of
+ this idea of
+ one of the things
+ in particular
+ the most important
+ the importance of
+ is important to
+ more or less
+ (the) way(s) in which
+ the way that
+ a way of
+ in the way that
+ an idea of
+ a sense of
+ what I mean
+ (not only) but also
+ all kinds of
+ and things like that
+ in a way
+ in some ways
+ to some extent
+ the type of
+ types of
+ so you can see
+ you can see here
+ you will see
+ we/you need to know
+ have to look at
+ look at this
+ here we have
+ the idea that
+ the notion of
+ the meaning of
+ in the sense (that)
+ a very important
+ one of the key
+ one of the most
+ in a way that
+ in such a way
+ in this/that way
+ in the same way
+ the same thing
+ a bit like
+ something like
+ like this
+ of some kind
+ or whatever
+ a little bit about
+ a (little) bit more about
+ but in fact
+ on the other hand
+ on the one hand
+ at the same time
+ as opposed to
+ as a result (of)
+ the effect(s) of
+ what happens if
+ what happens to
+ one of the reasons
+ the reason for
+ the reason why
+ because of
+first of all
+ the first thing (that)
+ in the first place
+ at the beginning/start (of)
+ at the end (of)
+ by the end of
+ in a moment
+ at this point
+ at that point
+ in this course
+ may or may not
+ it seems to me (that)
+ I think (that)
+ I would say
+ I suppose
+ of course
+ the fact that
+ we know that
+ (going to) come to
+ come back to (that)
+ go back to (that)
+ back to that
+ move on to
+ go on to
+ so we have
+ so you get
+ (just) to remind you
+ if you remember
+ to bear in mind
+ to think about
+ for those of you
+ many of you
+ most of you
+ you might want to (look at)
+ you will find
+ you can imagine
+ (lots and) lots of
+ (quite) a lot (of)
+ a certain amount of
+ an awful lot of
+ a little bit (of)
+ a number of
+ the number of
+ a (whole) series of
+ a (whole) range of
+ a variety of
+ all sorts
+ a group of
+ rather than
+ the difference between
+ involved in
+ so that
+ in order to
+ the basis of
+ to see how
+ at this stage
+ for the moment
+ for a long time
+ in the future
+ period of time
+ as you know
+ tend to be
+ more likely to
+ may well be
+ OK so
+ OK now
+ all right so
+ right so
+ if you think about it
+ in front of you
+ at the top of
+ at the bottom of
+ on the/your handout
+ more and more
+ as a whole
+ the majority of
+ the whole of
+ the rate of (change)
+ the level of
+ the other way round
+ to work out
+ to find out
+ in a minute
+ later on
+ you find that
+ on the whole
+ all right
+ let me just
+ by the way
+ on the board
+ What does that mean?
+ Why do you think…?
+ What do you think…?
+ Are there any questions?
+ the development of
+ the process of
+ at the level of

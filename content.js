@@ -1,5 +1,15 @@
-(() => {
+(async () => {
+  const { enabled, wordList } = await chrome.storage.local.get(['enabled', 'wordList']);
+  if (!enabled) {
+    const old = document.getElementById('__floating_word__');
+    if (old) old.remove();
+    return;
+  }
+
+  if (document.getElementById('__floating_word__')) return;
+
   const f = document.createElement('div');
+  f.id = '__floating_word__';
   Object.assign(f.style, {
     position: 'fixed',
     zIndex: 99999,
@@ -12,54 +22,67 @@
     fontSize: '14px',
     userSelect: 'none',
     cursor: 'move',
-    bottom: '20px', // Always near the bottom
-    left: '50%',    // Start centered
-    transform: 'translateX(-50%)', // Center alignment
-    transition: 'left 0.5s ease' // Smooth horizontal motion
+    bottom: '20px',
+    left: '0px'
   });
   f.textContent = 'Loading...';
   document.body.appendChild(f);
 
   let words = [];
 
-  async function loadWords() {
+  if (wordList && wordList.length > 0) {
+    words = wordList;
+  } else {
     try {
       const res = await fetch(chrome.runtime.getURL('words.txt'));
       const text = await res.text();
       words = text.split(/\r?\n/).filter(w => w.trim());
     } catch (e) {
       f.textContent = '[load error]';
+      return;
     }
   }
 
   function showRandomWord() {
-    if (words.length === 0) return;
     const word = words[Math.floor(Math.random() * words.length)];
     f.textContent = word;
-    const x = Math.random() * (window.innerWidth - f.offsetWidth);
-    f.style.left = `${x}px`;
   }
 
-  setInterval(showRandomWord, 4000);
+  showRandomWord();
+  const interval = setInterval(showRandomWord, 4000);
 
-  loadWords().then(showRandomWord);
+  let direction = 1, pos = 0, speed = 1;
+  function animate() {
+    const max = window.innerWidth - f.offsetWidth;
+    pos += direction * speed;
+    if (pos >= max) {
+      pos = max;
+      direction = -1;
+    } else if (pos <= 0) {
+      pos = 0;
+      direction = 1;
+    }
+    f.style.left = `${pos}px`;
+    requestAnimationFrame(animate);
+  }
+  animate();
 
-  // Drag functionality
   let dragging = false, offsetX = 0;
-
   f.addEventListener('mousedown', e => {
     dragging = true;
     offsetX = e.offsetX;
   });
-
   document.addEventListener('mousemove', e => {
     if (dragging) {
-      f.style.left = `${e.pageX - offsetX}px`;
-      f.style.transform = 'none'; // Cancel centering transform during drag
+      pos = Math.max(0, Math.min(e.pageX - offsetX, window.innerWidth - f.offsetWidth));
+      direction = 0;
+      f.style.left = `${pos}px`;
     }
   });
-
   document.addEventListener('mouseup', () => {
-    dragging = false;
+    if (dragging) {
+      dragging = false;
+      direction = pos <= 0 ? 1 : (pos >= window.innerWidth - f.offsetWidth ? -1 : 1);
+    }
   });
 })();
