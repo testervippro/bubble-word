@@ -1,153 +1,153 @@
-1. Alleviate (v) - ease, soothe, mitigate, relieve
-2. Affiliation(n)- association, alliance, connection, partnership 
-3. Regardless(adv) - irrespective, anyway, nonetheless, despite
-4. Audacious (adj) - daring, brave, fearless, adventurous 
-5. Anticipate(v)- forsee, await, look forward to, envision 
-5. Allegation(n)- claim, assertion, charge, statement
-6. Meanwhile (adv)- simultaneously, at the same time, in the meantime 
-7. Compelling(adj)- convincing, pesuasive, irresistible,compulsive
-8. Augment(v)-boost, expand, amplify, strengthen 
-9. Anomaly(n)- irregularity, aberration, deviation, exception
-10. Even though (conj)- although, in spite of , though, regardless 
-11. Boycott(v/n)- shun, reject, avoid, exclude
-12. Cumbersome (adj)- awkward, birdensome, clumsy, unwieldy 
-13. Arbitration (n)- mediation, settlement, negotiation, resolution 
-14. Authenticity (n)- legitimacy, realness, validity, accuracy 
-15. Capricious(adj)- impulsive, whimsical, erratic, volatile 
-16. Coincide(v)- concur, correspond, harmonize, align
-17. Camouflage(v/n)- disguise, masking, obscuring, hiding
-18. At any rate(adv)- anyway, in any case, no matter what
-19. Consolidate(v)- strengthen, combine, merge, integrate 
-20. Contradict(v)- oppose, challenge, refute, counter
-21. Benevolent(adj)- generous, altruistic, compassionate, sympathetic 
-22. Otherwise(adv)- alternatively, in other ways, in a different manner
-23. Breach(v/n)- violation, infraction, break, transgression 
-24. Breakthrough(n)- innovation, discovery, development, milestone 
-25. Decipher (v)- decode, interpret, unravel, translate
-26. Daunting(adj)- intimidating, overwhelming, scary, frightening 
-27. Coherence(n)- consistency, unity, congruity, harmony
-28. Circumstance(n)- situation, condition, occurence, context
-29. Compensation (n)- salary, renumeration, reward, indemnity 
-30. Diligent(adj)- industrious, hardworking, assiduous, committed 
-31. In wssence(adv)- essentially, fundamentally, basically, in brief
-32. Delineate(v)- outline, define, depict, portray
-33. Deceptive(adj)- dishonest, fraudulent, trickery, illusive 
-34. Deteriorate(v)- degrade, diminish, weaken, decay
-35. Disclose(v)- expose, unveil, divulge, announce
-36. In spite of(prep)- regardless of, even though, notwithstanding 
-37. Eloquent(adj)- articulate, expressive, persuasive, stirring 
-38. Elaborate(v/adj)- develop, explain, clarify, specify
-39. Endorsement (n)- recommendation, authorization, backing
-40. Embody(v)- exemplify, symbolize, manifest, personify
-40. Furthermore(adv)- moreover, additionally, besides, as well
-41. Empirical(adj)- factual, practical, experimental, data-driven 
-42. Equilibrium(n)- stability, harmony, symmetry, proportion 
-43. Ephemeral(adj)- short-lived, transient, fleeting, brief, momentary, evanescent 
-44. Eradicate(v)- abolish, remove, extinguish, wipe out
-45. Consequently(adv)- therefore, thus, as a result, accordingly 
-46. Ethics(n)- values, integrity, standards, code
-47. Exemption(n)- immunity, exclusion, release, exception, liberation
-48. Exacerbate(v)- aggravate, intensify, heighten, escalate
-49. Exploitation(n)- abuse, manipulation, oppression, mistreatment 
-50. Formidable(adj)- intimidating, powerfyl, fearsome, daunting
-51. In other words(adv)- that is to say, put differently, to clarify
-52. Facilitate(v)- assist, help, simplify, promote
-53. Framework(n)- structure, system, outline, model
-54. Futile(adj)- pointless, hopeless, useless, ineffective 
-55. Fluctuate(v)- vary, change, alter, waver
-56. Along with(prep)- together with, as well as, in addition to
-57. Flamboyant(adj)- ostentatious, extravagant, vibrant, dazzling
-58. Hypothesis(n)- theory, supposition, assumption, conjecture, surmise
-59. Harmess(v)- exploit, leverage, channel, employ 
-60. Haphazard(adj)- random, unorganised, disordered, messy
-61. In contrast(adv)- on the other hand, conversely, whereas 
-62. Hinder(v)- obstruct, thwart, impede, delat, hamper, throttle, curb, curtail, inhibit 
-63. Heinous(adj)- evil, horrible, abominable, monstrous 
-64. Gullible(adj)- trusting, credulous, innocent, easily deceived
-65. Groundvreaking(adj)- innovative, pioneering, revolutionary, novel
-66. Illuminate(v)- clarify, reveal, enlighten, shed light on
-67. Illusion(n)- delusion, fantasy, trick, hallucination
-68. Impose(v)- enforce, apply, inflict, dictate
-69. Impediment(n)- barrier, blockage, difficulty, restriction
-70. Incorporate(v)- integrate, merge, blend, fuse
-71. Impeccable(n)- faultless, spotless, flawless, pristine, exquisite, unblemished
-72. Instigate(v)- provoke, spark, trigger, cause 
-73. Innovation(n)- invention, advancement, improvement
-74. Unless(conj)- except, if not, otherwise, in the abscence of
-75. Imminent(adj)- approaching, upcoming, near, forthcoming 
-76. Intervene(v)- interfere, mediate, intercede, come between 
-77. Integrity(n)- honesty, ethics, upright ess, truthfulness
-78. Impartial(adj)- neutral, unbiased, objective, unpredjudiced
-79. Intervention(n)- interference, involvement, negotiation, assistance
-80. Infallible(adj)- unfailing, flawless, perfect, reliable
-81. Therefore(adv)- consequently, hence, as a result, accordingly
-82. Legitimize(v)- validate, authorize, approve, samction
-83. Judicious(adj)- prudent, sensible, thoughtful, reasonable
-84. Lavish(adj)- opulent, sumptuous, generous, elaborate
-85. Ludicrous(adj)- presposterous, silly, foolish, laughable 
-96. Lucid(adj)- transparent, coheret, understandable, rational
-97. Keen(adj)- sharp, acute, intense, fervent
-98. Manifest(adj/v)- demonstrate, reveal, exhibit, express
-99. Manipulation(n)- exploitation, handling, abuse, deception
-100. Momentum(n)- drive, impetus , energy, speed
-101. Mitigate(v)- alleviate, soothe, diminish, lessen
-102. Mediocre(adj)- average, ordianry, unremarkable, inferior
-103. As a result(adv)- therefore, hence, consequently, thus
-104. Meticulous(adj)- thorough, detailed, diligent, accurate
-105. Malevolent(adj)- malicious,vicious, spiteful, wicked, harmful
-106. Negotiate(v)- bargain, mediate, settle, deal
-107. Negligence(n)- carelessness, oversight, inattention, default
-108. Nimble(adj)- agile, swift, graceful, alert
-109. Neutralize(v)- defuse, ofcset, balance, cancel out
-110. Nuance(n)- detail, refinement, distinction, variation
-111. Noteworthy(adj)- important, notable, exceptional, memorable 
-112. Obscure(v)- vague, unclear, ambiguous, equivocal, opaque
-113. Optimism(n)- confidence, expectation, cheerfulness, assurance 
-114. Omnipotent(adj)- all-powerful, supreme, almighty, sovereign 
-115. Optimize(v)- improve, refine, maximize, streamline
-116. Opulent(adj)- extravagant, sumptuous, affulent, rich
-117. Ostentatious(adj)- showy, extravagant, flashy, pretentious 
-118. Obsolete(adj)- outdated, archaic, antiquated, old-fashioned, outmoded
-119. Perceive(v)- observe, notice, discern, detect
-120. Paradigm(n)- pattern, prototype, example, archetype 
-121. Plummet(v)- descend, decline, plunge, sink, tumble
-122. Perception (n)- perspective, onsight, opinion, understanding
-123. Pragmatic (adj)- realistic, sensible, rational, logical 
-124. Prohibit(v)- ban, restrict, hinder, curb, outlaw, forbid
-125. Phenomenon (n)- event, occurrence, situation, trend
-126. Plagiarism(n)- copying, piracy, fraud, infringement 
-127. Prolific(adj)- productive, abundnt, fertile, gemrative
-128. Provoke(v)- stimulate, trigger, arouse, irritate
-129. Precedence (n)- supremacy, seniority, dominance, preference 
-130. Prejudice (n)- discrimination, intolerance, partiality, bigotry
-131. Propensity(n)- tendency, inclination, predisposition, leaning
-132. Quintessential(adj)- ideal, epitome, paragon, typical, classic, archetypal 
-133. Quixotic(adj)- unrealistic, romantic, dreamy, fanciful
-134. Ramification(n)- effect, outcome, impact, repercussion
-135. Reconcile(v)- resolve,settle, make peace, reunite 
-136. Resilient(adj)- strong, robust, flexible, buoyant
-137. Redress(n/v)- remedy, compensate, rectify, set right
-138. Reflection(n)- thought, consideration, mirror
-139. Reinforce(v)- strengthen, bolster, fortufy, augment, intensify
-140. Redundant(adj)- superfluous, excessive, surplus, spare
-141. Regeneration(n)- revival, rebirth, rejuvenation, recovery 
-142. Replicate (v)- duplicate, double, recreate, imitate
-143. Ruthless(adj)- merciless, cruel, heartless, unforgiving
-144. Remuneration(n)- reward, compensation, wages, earnings, salary
-145. Retention(n)- preservation, holding , keeping, maintenance 
-146. Scrutinize(v)- analyze, inspect, investigate, review
-147. Speculation(n)- hypothesis, theory, assumption, conjecture 
-148. Sustainability(n)- endurance, continuity, viability, durability 
-149. Substantiate(v)- confirm, validate, support, authenticate
-150. Surreptitious(adj)- clandestine, covert, stealthy, concealed
-151. Skeptical(adj)- doubtful, unconvinced, distrustful, hesistant, suspicious 
-152. Suppress(v)- restrain, subdue, stifle, repress
-153. Stagmant(adj)- idle, dormant, motionless, unchanging
-154. Threshold(n)- nadir, boundary, verge, edge
-155. Tactful(adj)- diplomatic, considerate, sensitive, thoughtful
-156. Tenacious(adj)- stubborn, resolute, firm , unyielding 
-157. Transparency(n)- visibility, openness, honesty, disclosure 
-158. Thrive(v)- flourish, grow, prosper, succeed, expand 
-159. Turbulent(adj)- violent, stormy , unsettled, agitated
-160. Uniformity(n)- consistency, sameness, standardization
-161. Ubiquitous(adj)- omnipresent, universal, pervasive, all-over 
+Alleviate (v) – ease, soothe, mitigate, relieve
+Affiliation (n) – association, alliance, connection, partnership
+Regardless (adv) – irrespective, anyway, nonetheless, despite
+Audacious (adj) – daring, brave, fearless, adventurous
+Anticipate (v) – foresee, await, look forward to, envision
+Allegation (n) – claim, assertion, charge, statement
+Meanwhile (adv) – simultaneously, at the same time, in the meantime
+Compelling (adj) – convincing, persuasive, irresistible, compulsive
+Augment (v) – boost, expand, amplify, strengthen
+Anomaly (n) – irregularity, aberration, deviation, exception
+Even though (conj) – although, in spite of, though, regardless
+Boycott (v/n) – shun, reject, avoid, exclude
+Cumbersome (adj) – awkward, burdensome, clumsy, unwieldy
+Arbitration (n) – mediation, settlement, negotiation, resolution
+Authenticity (n) – legitimacy, realness, validity, accuracy
+Capricious (adj) – impulsive, whimsical, erratic, volatile
+Coincide (v) – concur, correspond, harmonize, align
+Camouflage (v/n) – disguise, masking, obscuring, hiding
+At any rate (adv) – anyway, in any case, no matter what
+Consolidate (v) – strengthen, combine, merge, integrate
+Contradict (v) – oppose, challenge, refute, counter
+Benevolent (adj) – generous, altruistic, compassionate, sympathetic
+Otherwise (adv) – alternatively, in other ways, in a different manner
+Breach (v/n) – violation, infraction, break, transgression
+Breakthrough (n) – innovation, discovery, development, milestone
+Decipher (v) – decode, interpret, unravel, translate
+Daunting (adj) – intimidating, overwhelming, scary, frightening
+Coherence (n) – consistency, unity, congruity, harmony
+Circumstance (n) – situation, condition, occurrence, context
+Compensation (n) – salary, remuneration, reward, indemnity
+Diligent (adj) – industrious, hardworking, assiduous, committed
+In essence (adv) – essentially, fundamentally, basically, in brief
+Delineate (v) – outline, define, depict, portray
+Deceptive (adj) – dishonest, fraudulent, trickery, illusive
+Deteriorate (v) – degrade, diminish, weaken, decay
+Disclose (v) – expose, unveil, divulge, announce
+In spite of (prep) – regardless of, even though, notwithstanding
+Eloquent (adj) – articulate, expressive, persuasive, stirring
+Elaborate (v/adj) – develop, explain, clarify, specify
+Endorsement (n) – recommendation, authorization, backing
+Embody (v) – exemplify, symbolize, manifest, personify
+Furthermore (adv) – moreover, additionally, besides, as well
+Empirical (adj) – factual, practical, experimental, data-driven
+Equilibrium (n) – stability, harmony, symmetry, proportion
+Ephemeral (adj) – short-lived, transient, fleeting, brief, momentary, evanescent
+Eradicate (v) – abolish, remove, extinguish, wipe out
+Consequently (adv) – therefore, thus, as a result, accordingly
+Ethics (n) – values, integrity, standards, code
+Exemption (n) – immunity, exclusion, release, exception, liberation
+Exacerbate (v) – aggravate, intensify, heighten, escalate
+Exploitation (n) – abuse, manipulation, oppression, mistreatment
+Formidable (adj) – intimidating, powerful, fearsome, daunting
+In other words (adv) – that is to say, put differently, to clarify
+Facilitate (v) – assist, help, simplify, promote
+Framework (n) – structure, system, outline, model
+Futile (adj) – pointless, hopeless, useless, ineffective
+Fluctuate (v) – vary, change, alter, waver
+Along with (prep) – together with, as well as, in addition to
+Flamboyant (adj) – ostentatious, extravagant, vibrant, dazzling
+Hypothesis (n) – theory, supposition, assumption, conjecture, surmise
+Harness (v) – exploit, leverage, channel, employ
+Haphazard (adj) – random, unorganised, disordered, messy
+In contrast (adv) – on the other hand, conversely, whereas
+Hinder (v) – obstruct, thwart, impede, delay, hamper, throttle, curb, curtail, inhibit
+Heinous (adj) – evil, horrible, abominable, monstrous
+Gullible (adj) – trusting, credulous, innocent, easily deceived
+Groundbreaking (adj) – innovative, pioneering, revolutionary, novel
+Illuminate (v) – clarify, reveal, enlighten, shed light on
+Illusion (n) – delusion, fantasy, trick, hallucination
+Impose (v) – enforce, apply, inflict, dictate
+Impediment (n) – barrier, blockage, difficulty, restriction
+Incorporate (v) – integrate, merge, blend, fuse
+Impeccable (adj) – faultless, spotless, flawless, pristine, exquisite, unblemished
+Instigate (v) – provoke, spark, trigger, cause
+Innovation (n) – invention, advancement, improvement
+Unless (conj) – except, if not, otherwise, in the absence of
+Imminent (adj) – approaching, upcoming, near, forthcoming
+Intervene (v) – interfere, mediate, intercede, come between
+Integrity (n) – honesty, ethics, uprightness, truthfulness
+Impartial (adj) – neutral, unbiased, objective, unprejudiced
+Intervention (n) – interference, involvement, negotiation, assistance
+Infallible (adj) – unfailing, flawless, perfect, reliable
+Therefore (adv) – consequently, hence, as a result, accordingly
+Legitimize (v) – validate, authorize, approve, sanction
+Judicious (adj) – prudent, sensible, thoughtful, reasonable
+Lavish (adj) – opulent, sumptuous, generous, elaborate
+Ludicrous (adj) – preposterous, silly, foolish, laughable
+Lucid (adj) – transparent, coherent, understandable, rational
+Keen (adj) – sharp, acute, intense, fervent
+Manifest (adj/v) – demonstrate, reveal, exhibit, express
+Manipulation (n) – exploitation, handling, abuse, deception
+Momentum (n) – drive, impetus, energy, speed
+Mitigate (v) – alleviate, soothe, diminish, lessen
+Mediocre (adj) – average, ordinary, unremarkable, inferior
+As a result (adv) – therefore, hence, consequently, thus
+Meticulous (adj) – thorough, detailed, diligent, accurate
+Malevolent (adj) – malicious, vicious, spiteful, wicked, harmful
+Negotiate (v) – bargain, mediate, settle, deal
+Negligence (n) – carelessness, oversight, inattention, default
+Nimble (adj) – agile, swift, graceful, alert
+Neutralize (v) – defuse, offset, balance, cancel out
+Nuance (n) – detail, refinement, distinction, variation
+Noteworthy (adj) – important, notable, exceptional, memorable
+Obscure (v/adj) – vague, unclear, ambiguous, equivocal, opaque
+Optimism (n) – confidence, expectation, cheerfulness, assurance
+Omnipotent (adj) – all-powerful, supreme, almighty, sovereign
+Optimize (v) – improve, refine, maximize, streamline
+Opulent (adj) – extravagant, sumptuous, affluent, rich
+Ostentatious (adj) – showy, extravagant, flashy, pretentious
+Obsolete (adj) – outdated, archaic, antiquated, old-fashioned, outmoded
+Perceive (v) – observe, notice, discern, detect
+Paradigm (n) – pattern, prototype, example, archetype
+Plummet (v) – descend, decline, plunge, sink, tumble
+Perception (n) – perspective, insight, opinion, understanding
+Pragmatic (adj) – realistic, sensible, rational, logical
+Prohibit (v) – ban, restrict, hinder, curb, outlaw, forbid
+Phenomenon (n) – event, occurrence, situation, trend
+Plagiarism (n) – copying, piracy, fraud, infringement
+Prolific (adj) – productive, abundant, fertile, generative
+Provoke (v) – stimulate, trigger, arouse, irritate
+Precedence (n) – supremacy, seniority, dominance, preference
+Prejudice (n) – discrimination, intolerance, partiality, bigotry
+Propensity (n) – tendency, inclination, predisposition, leaning
+Quintessential (adj) – ideal, epitome, paragon, typical, classic, archetypal
+Quixotic (adj) – unrealistic, romantic, dreamy, fanciful
+Ramification (n) – effect, outcome, impact, repercussion
+Reconcile (v) – resolve, settle, make peace, reunite
+Resilient (adj) – strong, robust, flexible, buoyant
+Redress (n/v) – remedy, compensate, rectify, set right
+Reflection (n) – thought, consideration, mirror
+Reinforce (v) – strengthen, bolster, fortify, augment, intensify
+Redundant (adj) – superfluous, excessive, surplus, spare
+Regeneration (n) – revival, rebirth, rejuvenation, recovery
+Replicate (v) – duplicate, double, recreate, imitate
+Ruthless (adj) – merciless, cruel, heartless, unforgiving
+Remuneration (n) – reward, compensation, wages, earnings, salary
+Retention (n) – preservation, holding, keeping, maintenance
+Scrutinize (v) – analyze, inspect, investigate, review
+Speculation (n) – hypothesis, theory, assumption, conjecture
+Sustainability (n) – endurance, continuity, viability, durability
+Substantiate (v) – confirm, validate, support, authenticate
+Surreptitious (adj) – clandestine, covert, stealthy, concealed
+Skeptical (adj) – doubtful, unconvinced, distrustful, hesitant, suspicious
+Suppress (v) – restrain, subdue, stifle, repress
+Stagnant (adj) – idle, dormant, motionless, unchanging
+Threshold (n) – boundary, verge, edge
+Tactful (adj) – diplomatic, considerate, sensitive, thoughtful
+Tenacious (adj) – stubborn, resolute, firm, unyielding
+Transparency (n) – visibility, openness, honesty, disclosure
+Thrive (v) – flourish, grow, prosper, succeed, expand
+Turbulent (adj) – violent, stormy, unsettled, agitated
+Uniformity (n) – consistency, sameness, standardization
+Ubiquitous (adj) – omnipresent, universal, pervasive, all-over
