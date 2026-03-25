@@ -1,0 +1,46 @@
+あ - a - giống お (o) - nét dài - /a/ vs /o/
+い - i - giống リ (ri) - 2 nét - /i/ vs /ɾi/
+う - u - giống フ (fu) - tròn - /ɯ/ vs /ɸɯ/
+え - e - giống ネ (ne) - 3 nét - /e/ vs /ne/
+お - o - giống あ (a) - tròn - /o/ vs /a/
+か - ka - giống カ (ka) - móc thêm - /ka/ vs /ka/
+き - ki - giống さ (sa) - nét đứt - /ki/ vs /sa/
+く - ku - giống し (shi) - < - /ku/ vs /ɕi/
+け - ke - giống は (ha) - nét dọc - /ke/ vs /ha/
+こ - ko - giống ニ (ni) - 2 gạch - /ko/ vs /ni/
+さ - sa - giống き (ki) - đơn giản - /sa/ vs /ki/
+し - shi - giống く (ku) - cong - /ɕi/ vs /ku/
+す - su - giống め (me) - loop - /sɯ/ vs /me/
+せ - se - giống さ (sa) - thêm nét - /se/ vs /sa/
+そ - so - giống ん (n) - cong - /so/ vs /n/
+た - ta - giống な (na) - giao nhau - /ta/ vs /na/
+ち - chi - giống ら (ra) - móc - /tɕi/ vs /ɾa/
+つ - tsu - giống シ (shi) - nhỏ - /tsɯ/ vs /ɕi/
+て - te - giống ナ (na) - T - /te/ vs /na/
+と - to - giống ど (do) - chấm - /to/ vs /do/
+な - na - giống た (ta) - nhiều nét - /na/ vs /ta/
+に - ni - giống こ (ko) - thêm nét - /ni/ vs /ko/
+ぬ - nu - giống め (me) - kín - /nɯ/ vs /me/
+ね - ne - giống れ (re) - dài - /ne/ vs /ɾe/
+の - no - giống O - tròn - /no/
+は - ha - giống ほ (ho) - ít nét - /ha/ vs /ho/
+ひ - hi - giống い (i) - cong - /çi/ vs /i/
+ふ - fu - giống う (u) - mềm - /ɸɯ/ vs /ɯ/
+へ - he - giống ^ - /he/
+ほ - ho - giống は (ha) - thêm nét - /ho/ vs /ha/
+ま - ma - giống ほ (ho) - nhiều nét - /ma/ vs /ho/
+み - mi - giống さ (sa) - cong - /mi/ vs /sa/
+む - mu - giống す (su) - loop - /mɯ/ vs /sɯ/
+め - me - giống ぬ (nu) - không kín - /me/ vs /nɯ/
+も - mo - giống ま (ma) - đơn giản - /mo/ vs /ma/
+や - ya - giống ヤ (ya) - /ja/ vs /ja/
+ゆ - yu - giống 由 - /jɯ/
+よ - yo - /jo/
+ら - ra - giống ち (chi) - /ɾa/ vs /tɕi/
+り - ri - giống い (i) - /ɾi/ vs /i/
+る - ru - giống ろ (ro) - /ɾɯ/ vs /ɾo/
+れ - re - giống ね (ne) - /ɾe/ vs /ne/
+ろ - ro - giống る (ru) - /ɾo/ vs /ɾɯ/
+わ - wa - giống れ (re) - /wa/ vs /ɾe/
+を - wo - giống お (o) - /o/ vs /o/
+ん - n - giống そ (so) - /n/ vs /so/
